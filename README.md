@@ -12,6 +12,8 @@ This form allows to search for a sports players with the help of API. With this 
 ### Install
 <ul>
   <li>Clone the repository or downlod the .zip,.tar files.</li>
-  <li>Install depenecies with <code>yarn install</code> command</li>
+  <li>Go to the root folder.</li>
+  <li>Install depenecies with by adding <code>yarn install</code> command in terminal</li>
+   <li>Run project with <code>yarn start</code> command</li>
 </ul>
  
