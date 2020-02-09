@@ -121,7 +121,7 @@ const SearchPlayer = () => {
         onChange={handleChange} />
         <div className="players-caption">Players</div>
       <>
-      {error && <div class="not-found">No player found</div>}
+      {error && <div className="not-found">No player found</div>}
       {
         playersList &&
         playersList
